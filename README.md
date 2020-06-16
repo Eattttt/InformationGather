@@ -8,7 +8,7 @@ SRC 资产信息聚合网站 收集了在进行资产收集时 常用的查询�
 
 本网站为静态网站，可直接部署在Git Page，Coding Page上
 
-示例网站：http://lovebear.top/info/
+示例网站：https://eattttt.github.io/InformationGatherTools/cn/index.html
 
 网站效果图：
 
