@@ -30,10 +30,10 @@ getData([
                 "desc": "提供许多搜索服务"
             },
             {
-                "url": "https://www.zoomeye.org/",
-                "logo": "assets/images/logos/zoomeye.jpg",
-                "title": "ZoomEye",
-                "desc": "知道创宇的网络空间搜索引擎"
+                "url": "https://www.threatcrowd.org/",
+                "logo": "assets/images/logos/threatcrowd.jpg",
+                "title": "threatcrowd",
+                "desc": "Search by Domain, IP, Email or Organization"
             },
             {
                 "url": "https://web.archive.org/",
@@ -549,7 +549,7 @@ getData([
                 "en_name": "Source Code Disclosure",
                 "web": [
                     {
-                        "url": "https://github.com/lijiejie/GitHack",
+                        "url": "https://github.com/BugScanTeam/GitHack",
                         "logo": "assets/images/logos/github.jpg",
                         "title": "GitHack",
                         "desc": ".git 源码泄露"
@@ -565,6 +565,12 @@ getData([
                         "logo": "assets/images/logos/github.jpg",
                         "title": "Dvcs-Ripper",
                         "desc": ".git, .bzr, CVS, .svn, .hg源码泄露"
+                    },
+                    {
+                        "url": "https://searchcode.com/",
+                        "logo": "assets/images/logos/github.jpg",
+                        "title": "searchcode",
+                        "desc": "代码泄露查询"
                     },
                 ]
             },
@@ -675,6 +681,7 @@ getData([
                         "title": "YunSpider",
                         "desc": "百度网盘爬取开源工具"
                     },
+                    
                 ]
             },
         ]
@@ -818,6 +825,12 @@ getData([
                 "logo": "assets/images/logos/github.jpg",
                 "title": "I-See-You",
                 "desc": "通过钓鱼获取目标地理定位信息"
+            },
+            {
+                    "url": "https://www.doc88.com/",
+                    "logo": "assets/images/logos/github.jpg",
+                    "title": "道客巴巴",
+                    "desc": "盗客巴巴（社工库）"
             },
         ]
     },
