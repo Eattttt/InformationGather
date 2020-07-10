@@ -179,6 +179,12 @@ getData([
                         "title": "Hacker Target",
                         "desc": "国外的子域名查询服务"
                     },
+                    {
+                        "url": "https://github.com/antichown/subdomain-takeover",
+                        "logo": "assets/images/logos/github.jpg",
+                        "title": "subdomain-takeover",
+                        "desc": "子域名接管扫描器"
+                    },
                 ]
             },
             {
@@ -568,7 +574,7 @@ getData([
                     },
                     {
                         "url": "https://searchcode.com/",
-                        "logo": "assets/images/logos/github.jpg",
+                        "logo": "assets/images/logos/searchcode.png",
                         "title": "searchcode",
                         "desc": "代码泄露查询"
                     },
