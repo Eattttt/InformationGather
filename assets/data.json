@@ -247,6 +247,12 @@ getData([
                         "title": "企查查",
                         "desc": "人民银行备案企业征信机构"
                     },
+                    {
+                        "url": "https://aiqicha.baidu.com/",
+                        "logo": "assets/images/logos/aiqicha.png",
+                        "title": "爱企查",
+                        "desc": "百度的，免费，简单"
+                    },
                 ]
             },
             {
