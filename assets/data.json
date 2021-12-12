@@ -334,6 +334,18 @@ getData([
                         "desc": "站长之家的IP信息查询服务"
                     },
                     {
+                        "url": "https://www.ipip.net/ip.html",
+                        "logo": "assets/images/logos/ipip.ico",
+                        "title": "IPIP",
+                        "desc": "IPIP-根据IP查询地理位置"
+                    },
+                    {
+                        "url": "https://www.ipplus360.com/",
+                        "logo": "assets/images/logos/ipplus360.ico",
+                        "title": "ipplus360",
+                        "desc": "埃文科技-根据IP查询地理位置"
+                    },
+                    {
                         "url": "https://www.yougetsignal.com/tools/network-location/",
                         "logo": "assets/images/logos/yougetsignal.png",
                         "title": "YouGetSignal",
